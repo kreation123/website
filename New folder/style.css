@@ -1,0 +1,23 @@
+
+
+ 
+.header{
+background-color: black ;
+color:rgb(205, 92, 92)
+}
+
+.link{
+    background-color: black;
+color: red;
+}
+.link2{
+    background-color: black;
+color: red;
+}
+
+.space{
+    background-color: white ;
+    display: flex;
+    justify-content: space-between;
+     
+}
